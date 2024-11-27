@@ -1,2 +1,2 @@
-![main task](https://github.com/Harpuneet-Singh/winter-camp-24/blob/main/Assignment_1/Harpuneet_Singh_240426/Harpuneet_Main.jpg?raw=true)
-![remote task](https://github.com/Harpuneet-Singh/winter-camp-24/blob/main/Assignment_1/Harpuneet_Singh_240426/Harpuneet_Remote.jpg?raw=true)
+![main task](https://github.com/Harpuneet-Singh/winter-camp-24/blob/main/Assignment_1/Harpuneet_Singh_240426/Harpuneet_Main.png?raw=true)
+![remote task](https://github.com/Harpuneet-Singh/winter-camp-24/blob/main/Assignment_1/Harpuneet_Singh_240426/Harpuneet_Remote.png?raw=true)
