@@ -1,2 +1,0 @@
-![Solution](solutions.jpg)
-<img>
