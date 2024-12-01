@@ -1,0 +1,33 @@
+// data flow
+// module xor_gate(
+//     A,
+//     B,
+//     C
+// );
+
+//     input wire A;
+//     input wire B;
+//     output wire C;
+
+//     assign C = A ^ B;
+
+
+// endmodule
+
+
+
+// gate level
+module xor_gate(
+    input A,
+    input B,
+    output C
+);
+
+    wire [3:0]W;
+    not(W[0], A);
+    not(W[1], B);
+    and(W[2], W[1], A);
+    and(W[3], W[0], B);
+    or(C, W[3], W[2]);
+
+endmodule
